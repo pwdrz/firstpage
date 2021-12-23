@@ -145,3 +145,7 @@ a:hover {
     margin-top: 3%;
     color: #EAF6F6;
 }
+
+div > h2:hover {
+    color: rgba(223, 193, 27, 0.842);
+} 
