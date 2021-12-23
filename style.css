@@ -31,6 +31,11 @@ a {
     padding: 2%;
 }
 
+a:hover {
+    color: gold;
+}
+
+
 .top-container {
     background-color: #E3FDFD;
     position: relative;
