@@ -1,4 +1,5 @@
 body {
+    color: #40514E;
     margin: 0;
     text-align: center;
     font-family: 'Merriweather', serif;
@@ -29,6 +30,11 @@ a {
     text-decoration: none;
     padding: 2%;
 }
+
+a:hover {
+    color: gold;
+}
+
 
 .top-container {
     background-color: #E3FDFD;
@@ -139,3 +145,7 @@ a {
     margin-top: 3%;
     color: #EAF6F6;
 }
+
+div > h2:hover {
+    color: rgba(223, 193, 27, 0.842);
+} 
